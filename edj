@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://60.173.234.96:8089/edj_web/edj.ipa</string>
+					<string>http://120.210.157.130:8089/edj_web/edj.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,7 +19,7 @@
 				<key>bundle-identifier</key>
 				<string>com.shanli.app.ljgsedj</string>
 				<key>bundle-version</key>
-				<string>2.0.0</string>
+				<string>2.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
